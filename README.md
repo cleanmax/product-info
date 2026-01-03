@@ -1,2 +1,2 @@
-# product-info
-Product Info page
+# Clean-Max
+Product Description Page
